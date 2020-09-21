@@ -1,0 +1,7 @@
+groups1,leftover1= divmod(32,5)
+groups2,leftover2= divmod(45,7)
+groups3,leftover3= divmod(51,6)
+print("Number of students in each group:")
+print("Class 1:", groups1,"\nClass 2:", groups2,"\nClass 3:", groups3)
+print("Number of students leftover:")
+print("Class 1:", leftover1,"\nClass 2:", leftover2,"\nClass 3:", leftover3)
