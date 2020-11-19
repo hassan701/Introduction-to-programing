@@ -13,7 +13,7 @@ def word_count(text):
             hapax.append(wo)
     return hapax
 def main():
-    file = open('pg63807.txt', encoding='utf8')
+    file = open('pg63807.txt', encoding='utf8')# The Great Green Blight
     text = file.read().lower().replace('\n', ' ').split(' ')
     #print(text)
     print(word_count(text))
