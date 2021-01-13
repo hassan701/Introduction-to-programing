@@ -1,0 +1,71 @@
+Code and Tutorials used/fllowed to develop this program:
+
+Tile-based game development tutorial by KidsCanCode(youtube): https://www.youtube.com/watch?v=txUvD5_ROIU&list=PLmz3pPh6QC2VOLIFgybOmZRJZGZ1HQcb0
+
+Pygame Menu System Tutorial Part 2- Building the Menu and States - YouTube, https://www.youtube.com/watch?v=bmRFi7-gy5Y&t=17s
+
+Pygame Turn Based Battle System Tutorial - YouTube: https://www.youtube.com/watch?v=JGxFPCkJzJM
+
+Python Pokemon - Python Class Tutorial for Beginners - YouTube: https://i.ytimg.com/an_webp/Pbs6jQZrZA4/mqdefault_6s.webp?du=3000&sqp=CKTB-v8F&rs=AOn4CLCKjz7a3Z5KJO37uU7PIik_05cjaw
+
+
+
+
+Project Refrence:
+
+The Stolen Crown - A Fantasy RPG written in Python using Pygame: https://www.youtube.com/watch?v=MkZXaDQfTSo&t=1438s
+
+Kamidori Alchemy Meister: Origenal inspirationa but i could never get the movement right.
+
+
+
+Sprites:
+
+
+Rock Golem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JoW2Z444aWDqP9p9NdKrcMCNdKCEGvWG6g&usqp=CAU
+
+VINe Monster:https://i.pinimg.com/736x/df/39/a0/df39a0c939f9448cf40470791dea6a4c.jpg
+
+Zompie wolf: https://i.pinimg.com/originals/c0/3c/48/c03c481b812ab6c521ecf0ed49bf6fa0.jpg
+
+Tree Wolf:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3DPlanta%2Bcarn%25C3%25ADvora&psig=AOvVaw1e9QlLNxfWV8m4kOV3qHDU&ust=1610613265174000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPja2MXAmO4CFQAAAAAdAAAAABAD
+
+Skeleton:https://s3.amazonaws.com/GameArtPartners/Images/MonsterBox1_Gallery2.jpg
+
+Dragon:https://i.pinimg.com/474x/4c/ab/4c/4cab4c3000198f5924bf1db7268b267d.jpg
+
+Slime Lizard: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.favpng.com%2F25%2F17%2F19%2Frpg-maker-monster-role-playing-game-role-playing-video-game-legendary-creature-png-favpng-fGSyRXHQ3xJfsraRyKi2qcPNU.jpg&imgrefurl=https%3A%2F%2Ffavpng.com%2Fpng_view%2Frpg-rpg-maker-monster-role-playing-game-role-playing-video-game-legendary-creature-png%2F8KSacNw5&tbnid=3otId6F6w4X1AM&vet=12ahUKEwjT2syNwJjuAhXKwoUKHS52AvAQMygDegQIARAf..i&docid=Dm5cB4EUoWJzHM&w=820&h=888&itg=1&q=holy%20family%20catholic%20church&hl=en-SO&ved=2ahUKEwjT2syNwJjuAhXKwoUKHS52AvAQMygDegQIARAf
+
+Portal:https://cdn.xl.thumbs.canstockphoto.com/dark-gate-vortex-dark-portal-abstracthard-vortex-lines-version-stock-illustrations_csp24305558.jpg
+
+Floor(didn't use it,but..):https://cdn.gamedevmarket.net/wp-content/uploads/20191203180928/6f45c221273b7ca1fddb55ac560f5012.png
+
+Wall:https://cdn.gamedevmarket.net/wp-content/uploads/20191203180928/6f45c221273b7ca1fddb55ac560f5012.png
+
+
+
+Background:
+
+
+Menu: https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/df9d9252-8c14-4f62-a0a8-ad811625a7c8_scaled.jpg
+
+Battle: https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/3ec04946-604a-4011-9e42-027d362fcbb7_scaled.jpg
+
+
+
+
+
+
+
+
+Music and Sound:
+
+Monster Growl - https://www.youtube.com/watch?v=FEW5a7ebxvQ, Sound Effect
+Sword Slash - https://www.youtube.com/watch?v=X3liPsg21Cg, SoundEffectsArchive
+Level Up - https://www.youtube.com/watch?v=P_u0k2uElHI, CPhT Fluke
+DEAH, Dark Souls ' You Died ' Sound Effect
+Portal, https://www.youtube.com/watch?v=80bdxAqF4GU, SOUND Effects Public Domain
+
+Bensound.com ? Memories
+Bensound.com ? Creativeminds
+\

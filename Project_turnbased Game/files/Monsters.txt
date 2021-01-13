@@ -1,0 +1,7 @@
+Skeleton,Grass,2
+Rock Golem,Fire,1
+SLime lizard,water,3
+Wolf Tree,Water,4
+VineMAN,Grass,5
+Zombie wolf,Grass,6
+Dragon,Fire,0
